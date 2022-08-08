@@ -15,4 +15,8 @@ int max = firstDigit;
 if(max < secondDigit) max = secondDigit;
 Console.WriteLine($"Максимальная цифра в числе {number} - это {max}");
 
+// Интерполяция
+//Console.WriteLine($"Текст: {В фигурных скобках - переменная}")
+
+
 
